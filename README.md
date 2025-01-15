@@ -98,22 +98,17 @@ Para trabalhar com arquivos como **.jpeg**, **.png**, **.svg**, foi necessário 
 ## 🚀 **Como Executar o Projeto**  
 1. **Clone este repositório**:  
    ```bash  
-   git clone https://github.com/marioluizguimaraes/React-Native  
+   git clone https://github.com/marioluizguimaraes/App-GeradorDeSenha  
    ```  
 
 2. **Acesse o diretório do projeto**:  
    ```bash  
-   cd Sequenciador-de-senhas/my-app2  
+   cd App-GeradorDeSenha/my-app2  
    ```  
 
-3. **Instale as dependências**:  
+3. **Inicie o servidor de desenvolvimento**:  
    ```bash  
-   npm install  
-   ```  
-
-4. **Inicie o servidor de desenvolvimento**:  
-   ```bash  
-   npx expo start  
+   npm run start
    ```  
 
 5. **Teste no Expo Go**:  
