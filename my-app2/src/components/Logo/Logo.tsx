@@ -1,7 +1,8 @@
 import React from 'react';
 import { Text, Image } from 'react-native';
 import { styles } from './LogoStyles';
-import logo from '../../../assets/file-lock.png'
+import logo from '../../../assets/file-lock.png';
+
 export function Logo() {
   return (
     <>
