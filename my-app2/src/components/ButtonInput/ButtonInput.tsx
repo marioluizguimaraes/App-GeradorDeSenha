@@ -8,7 +8,7 @@ import generatPass from '../../service/PassGeneratService';
 import * as Clipboard from 'expo-clipboard';
 
 export function ButtonImput() {
-  let [pass, setPass] = useState('')
+  const [pass, setPass] = useState('')
 
   function handleGeneratButton(){
     setPass(generatPass())
